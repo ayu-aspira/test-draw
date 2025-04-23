@@ -1,0 +1,15 @@
+{
+  "extends": ["@aspira-nextgen/tsconfig/base.json"],
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["./src/*"],
+      "@aspira-nextgen/feature-domain-events": ["../../libs/shared/feature-domain-events/src/index.ts"],
+      "@aspira-nextgen/feature-domain-events/*": ["../../libs/shared/feature-domain-events/src/*"],
+      "@aspira-nextgen/core/dynamodb": ["../core/src/dynamodb/index.ts"],
+      "@aspira-nextgen/core/logger": ["../core/src/logger/index.ts"],
+      "@aspira-nextgen/core/*": ["../core/src/*"],
+      "@aspira-nextgen/graphql/resolvers": ["../graphql/src/generated/resolvers.generated.ts"],
+    }
+  }
+}

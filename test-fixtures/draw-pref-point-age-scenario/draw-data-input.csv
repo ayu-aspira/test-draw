@@ -1,0 +1,5 @@
+hunt_code,description,is_valid,in_the_draw,total_quota,nr_cap_chk
+huntCode1,,Y,Y,2,N
+huntCode2,,Y,Y,1,N
+huntCode3,,Y,Y,,N
+huntCode4,,Y,N,1,N

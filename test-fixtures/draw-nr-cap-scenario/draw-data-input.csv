@@ -1,0 +1,3 @@
+hunt_code,description,is_valid,in_the_draw,total_quota,nr_cap_chk,nrcap_prect,unLPP_prect
+huntCode1,,Y,Y,10,Y,25,
+huntCode2,,Y,Y,10,N,,

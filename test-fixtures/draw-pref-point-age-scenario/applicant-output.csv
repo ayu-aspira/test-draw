@@ -1,0 +1,8 @@
+application_number,age,residency,point_balance,choice1,choice2,choice3,choice4,draw_outcome,choice_ordinal_awarded,choice_awarded
+1,30,RESIDENT,8,huntCode1,huntCode2,,,AWARDED,1,huntCode1
+2,30,RESIDENT,10,huntCode2,huntCode1,,,AWARDED,2,huntCode1
+3,25,RESIDENT,5,huntCode2,,,,AWARDED,1,huntCode2
+4,30,RESIDENT,4,huntCode2,,,,NOT_AWARDED,,
+5,30,RESIDENT,3,huntCode3,,,,NOT_AWARDED,,
+6,30,RESIDENT,2,huntCode2,huntCode3,,,NOT_AWARDED,,
+7,30,RESIDENT,1,huntCode4,,,,NOT_AWARDED,,

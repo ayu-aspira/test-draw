@@ -1,0 +1,5 @@
+{
+  "quotaRules": {
+    "ruleFlags": ["NON_RESIDENT_CAP_ENFORCEMENT"]
+  }
+}

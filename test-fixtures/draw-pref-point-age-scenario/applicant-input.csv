@@ -1,0 +1,8 @@
+application_number,age,residency,point_balance,choice1,choice2,choice3,choice4
+1,30,RESIDENT,8,huntCode1,huntCode2,,
+2,30,RESIDENT,10,huntCode2,huntCode1,,
+3,25,RESIDENT,5,huntCode2,,,
+4,30,RESIDENT,4,huntCode2,,,
+5,30,RESIDENT,3,huntCode3,,,
+6,30,RESIDENT,2,huntCode2,huntCode3,,
+7,30,RESIDENT,1,huntCode4,,,

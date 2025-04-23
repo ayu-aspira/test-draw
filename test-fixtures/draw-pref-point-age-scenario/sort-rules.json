@@ -1,0 +1,10 @@
+[
+  {
+    "field": "age",
+    "direction": "ASC"
+  },
+  {
+    "field": "pointBalance",
+    "direction": "DESC"
+  }
+]

@@ -1,0 +1,3 @@
+hunt_code,description,is_valid,in_the_draw,total_quota,nr_cap_chk,nrcap_prect,nrcap_amt,nrcap_bal,unLPP_prect,unLPP_amt,unLPP_bal,previous_quota_balance,total_quota_in_this_draw,quota_balance,quota_balance_in_this_draw,total_quota_awarded,quota_awarded_in_this_draw,nr_quota_awarded_in_this_draw,nr_total_quota_awarded,r_total_quota_awarded,r_quota_awarded_in_this_draw
+huntCode1,,Y,Y,10,Y,25,2,0,,,,10,10,5,5,5,5,2,2,3,3
+huntCode2,,Y,Y,10,N,,,,,,,10,10,6,6,4,4,1,1,3,3

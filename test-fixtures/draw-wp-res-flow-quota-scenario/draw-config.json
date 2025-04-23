@@ -1,0 +1,5 @@
+{
+  "quotaRules": {
+    "ruleFlags": ["WP_RES_QUOTA", "FLOW_QUOTA"]
+  }
+}
